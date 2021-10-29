@@ -7,4 +7,5 @@ This project is a final project on my data science bootcamp collaborative with 4
 5. [Avinska Valeria Gunawan](https://www.linkedin.com/in/avinska) as Business Team
 
 Dataset used is from kaggle: https://www.kaggle.com/susant4learning/holiday-package-purchase-prediction
+
 Check the details of this project through my portfolio: https://bit.ly/tnsireki
